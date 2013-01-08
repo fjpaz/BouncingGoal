@@ -9,8 +9,6 @@
 #include "Constants.h"
 
 #include <SDL/SDL.h>
-#include <QFile>
-#include <QDebug>
 
 SoundPlayer::SoundPlayer(QObject *parent) :
     QObject(parent)
